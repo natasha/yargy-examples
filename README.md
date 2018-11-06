@@ -11,7 +11,7 @@ The following dependencies are required for the correct work:
 pip install jupyter yargy ipymarkup
 ```
 
-To view the parsed trees install **graphviz**, on Mac it can be installed by this way:
+To view the parsed trees install graphviz, on Mac it can be installed this way:
 
 ```bash
 brew install graphviz
