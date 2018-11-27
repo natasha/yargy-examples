@@ -1,3 +1,3 @@
 
 test:
-	pytest -v --nbval */*.ipynb
+	pytest -v --nbval */notes.ipynb
