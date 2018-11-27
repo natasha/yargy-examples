@@ -1,4 +1,4 @@
-## yargy-examples
+## yargy-examples [![Build Status](https://travis-ci.org/natasha/yargy-examples.svg?branch=master)](https://travis-ci.org/natasha/yargy-examples)
 
 A set of jupyter notebooks with example grammers for the [Yargy](https://github.com/natasha/yargy) parser.
 
