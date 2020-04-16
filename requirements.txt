@@ -1,4 +1,4 @@
-yargy==0.12.0
+yargy==0.13.0
 ipymarkup==0.7.0
 
 pytest==5.2.2
