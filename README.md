@@ -1,9 +1,10 @@
-## yargy-examples [![Build Status](https://travis-ci.org/natasha/yargy-examples.svg?branch=master)](https://travis-ci.org/natasha/yargy-examples)
+
+# yargy-examples ![CI](https://github.com/natasha/yargy-examples/workflows/CI/badge.svg)
 
 A set of jupyter notebooks with example grammars for the [Yargy](https://github.com/natasha/yargy) parser.
 
 
-### Dependencies
+## Dependencies
 
 The following dependencies are required for the correct work:
 
