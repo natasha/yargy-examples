@@ -1,6 +1,6 @@
 
 test:
-	pytest -v --nbval */notes.ipynb
+	pytest -v --nbval-lax */notes.ipynb
 
 clean:
 	find . \
