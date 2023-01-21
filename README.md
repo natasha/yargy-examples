@@ -1,5 +1,5 @@
 
-# yargy-examples ![CI](https://github.com/natasha/yargy-examples/workflows/CI/badge.svg)
+# yargy-examples ![CI](https://github.com/natasha/yargy-examples/actions/workflows/test.yml/badge.svg)
 
 A set of Jupyter notebooks with example grammars for the [Yargy](https://github.com/natasha/yargy) parser.
 
