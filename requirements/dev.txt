@@ -1,0 +1,5 @@
+ipykernel
+nbconvert
+
+yargy
+ipymarkup

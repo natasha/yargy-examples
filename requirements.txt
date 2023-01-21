@@ -1,6 +1,0 @@
-yargy==0.13.0
-ipymarkup==0.7.0
-
-pytest==5.2.2
-nbval==0.9.5
-

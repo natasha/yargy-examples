@@ -1,0 +1,4 @@
+yargy==0.15.1
+ipymarkup==0.7.0
+nbconvert==7.2.8
+
